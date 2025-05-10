@@ -17,8 +17,8 @@ Creo profundamente que el conocimiento, cuando se comparte, se multiplica. Y es 
 ## ¿Colaboramos?
 Siempre estoy abierto a nuevas ideas, proyectos o locuras tecnológicas. Si tienes algo entre manos y crees que puedo ayudarte, no lo dudes: escríbeme, cuéntame, ¡me encantará escucharte!
 
-## Cómo encontra rme
-Tengo una web que, bueno... intento mantener viva:[manolog.es](https://manolog.es). A veces está actualizada, otras parece un archivo del pasado, pero quién sabe, quizá justo cuando la visites, me haya dado ese arrebato de ponerla al día.
+## Cómo encontrarme
+Tengo una web que, bueno... intento mantener viva: [manolog.es](https://manolog.es). A veces está actualizada, otras parece un archivo del pasado, pero quién sabe, quizá justo cuando la visites, me haya dado ese arrebato de ponerla al día.
 
 ---
 
